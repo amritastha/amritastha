@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📚 I am a current Computer Engineering student at UMBC
 - 📫 Contact me through email at amritas2@umbc.edu or [LinkedIn](https://www.linkedin.com/in/shrestha-amrita/)!
 - 🔭 Interests include software engineering and embedded systems
+- 🌱  Actively seeking opportunities to grow, collaborate, and build innovative solutions!
